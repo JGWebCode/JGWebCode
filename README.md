@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**JGWebCode/JGWebCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JGWebCode/JGWebCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
 - 🔭 I’m currently working on my house ...
@@ -11,8 +11,5 @@
 - 📫 jgwebcode@gmail.com  ...
 - 😄 JGWEBCODE: ...
 - ⚡ I like to create news: ...
- ##
- https://img.shields.io/static/v1?label=<LABEL>&message=< I will be showing my code in js>&color=<yellow>
--->
-
+ 
 
